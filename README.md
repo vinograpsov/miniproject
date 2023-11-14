@@ -8,12 +8,12 @@ PLAN LEKCJI
 
 1. INTRODUCTION 
    - Wprowadzenie do hypernetworkow 
-   - BACKGROUND ??? 
    - Przyklad prostej integracji hypernetworkow do sieci neuronowej
 2. Categorization of Hypernetworks
    - teoretyczne podejscie do roznych typow hypernetworkow
    - ....
 3. Mozliwosci modelu 
+    - When can we use Hypernets?
     ..... 
 4. Hypernet + Resnet 
 5. Hypernet + MLP ???? 
