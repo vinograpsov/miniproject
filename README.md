@@ -8,6 +8,7 @@ PLAN LEKCJI
 
 1. INTRODUCTION 
    - Wprowadzenie do hypernetworkow 
+   - architecture
    - Przyklad prostej integracji hypernetworkow do sieci neuronowej
 2. Categorization of Hypernetworks
    - teoretyczne podejscie do roznych typow hypernetworkow
@@ -18,12 +19,13 @@ PLAN LEKCJI
 6. Podsumowanie
     - Miejsce hypernetworkow w swiecie sieci neuronowych
     - Wady i zalety
-    - zadanie domowe
 
 Repozytorium zawiara pliki: 
 - hypernet.ipynb -- wprowadzenie do tematyki hypernetworkow na przykladzeie zbirow treningowych MNIST, oraz raspatrzenie  
 - requirements.txt -- plik z wymaganymi bibliotekami do uruchomienia notebooka
 - imgs -- folder zawierajacy obrazki wykorzystywane w notebooku
+- MNISTModel.py - plik zawirajacy klasy MNISTHyperNetModel (uzywa hyperneta), StandardCNNModel (zwykla siec) 
+- HyperNet.py - plik zawierajacy klase CustomHyperNet oraz CustomHyperConvLayer ktore generuja wagi dla sieci MNISTHyperNetModel
 
 ## Konfiguracja srodowiska
 
