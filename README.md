@@ -10,15 +10,12 @@ PLAN LEKCJI
    - Wprowadzenie do hypernetworkow 
    - architecture
    - Przyklad prostej integracji hypernetworkow do sieci neuronowej
-2. Categorization of Hypernetworks
+2. Kategoryzacja
    - teoretyczne podejscie do roznych typow hypernetworkow
 3. Mozliwosci modelu 
-    - When can we use Hypernets?
-4. Hypernet + Resnet 
-5. Hypernet + MLP ???? 
-6. Podsumowanie
-    - Miejsce hypernetworkow w swiecie sieci neuronowych
-    - Wady i zalety
+4. Zastosowania Hypernetworków
+5. Kiedy stosować hypernetworki?
+6. LeNet + Hypernetwork
 
 Repozytorium zawiara pliki: 
 - hypernet.ipynb -- wprowadzenie do tematyki hypernetworkow na przykladzeie zbirow treningowych MNIST, oraz raspatrzenie  
